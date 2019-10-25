@@ -1,0 +1,324 @@
+/* font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Montserrat', sans-serif; 
+link-active:#1c9f8a
+color:#606665
+*/
+.App {
+	font-family: "Source Sans Pro", sans-serif;
+	display: flex;
+	margin: 0px 30px 0px 30px;
+	justify-content: space-between;
+}
+.menu {
+	display: inline-flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+.menu-list {
+	list-style: none;
+	display: inline-flex;
+	font-weight: 600;
+	color: #606665;
+}
+li {
+	margin: 0px 25px 0px 25px;
+	cursor: pointer;
+}
+
+li.active {
+	color: #1c9f8a;
+}
+li:hover {
+	color: #42ab9a;
+}
+a {
+	text-decoration: none;
+	color: #606665;
+}
+a:hover {
+	color: #42ab9a;
+	cursor: pointer;
+}
+.mainInfo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.mainText {
+	font-size: 1.125rem;
+	font-weight: 400;
+	line-height: 1.75rem;
+	letter-spacing: 0;
+}
+.scroll-top {
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+	z-index: 1030;
+	padding: 10px 0;
+	background: #fff;
+	box-shadow: 0 0.25rem 0.625rem 0.25rem rgba(0, 0, 0, 0.06);
+	transition: cubic-bezier(0.47, 0, 0.745, 0.715) 0.2s;
+}
+.fixed-top {
+	z-index: 1030;
+	background: #fff;
+	transition: cubic-bezier(0.39, 0.575, 0.565, 1) 0.2s;
+	padding: 20px 0;
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+}
+.section-stories:before {
+	content: "";
+	position: absolute;
+	top: 0;
+	height: 18rem;
+	width: 100%;
+	background: #f1f9f8;
+}
+.h2-text {
+	font-family: "Montserrat", sans-serif;
+	font-size: 1.75rem;
+	font-weight: 800;
+	line-height: 2.5rem;
+	letter-spacing: 0.0125rem;
+}
+.link-icon {
+	display: inline-block;
+	font-family: "Source Sans Pro";
+	font-weight: 700;
+	line-height: 1.5rem;
+}
+.link-icon:after {
+	background: url("./dark-arrow.svg") no-repeat;
+	content: "";
+	display: inline-block;
+	width: 13px;
+	height: 10px;
+	margin-left: 8px;
+}
+.link-icon:hover:after {
+	background: url("./cornflower-arrow.svg") no-repeat;
+}
+.cases {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.cards {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+	padding: 10px 30px 30px 30px;
+}
+.ben-text {
+	color: #1c9f8a;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 1rem;
+	font-weight: 700;
+	line-height: 1.75rem;
+	letter-spacing: 0.03125rem;
+	text-transform: uppercase;
+	padding: 30px;
+}
+.hero-text {
+	font-family: "Montserrat", sans-serif;
+	font-size: 1.75rem;
+	font-weight: 800;
+	line-height: 2.5rem;
+	letter-spacing: 0.0125rem;
+	color: #2c302f;
+	padding: 0px 30px 0px 30px;
+}
+.benefits-section {
+	display: inline-flex;
+}
+.benefits-explain {
+	padding: 30px;
+	width: 60%;
+	justify-content: space-around;
+	color: #2c302f;
+	display: flex;
+}
+.h5-ben {
+	font-family: "Montserrat", sans-serif;
+	font-size: 1.125rem;
+	font-weight: 700;
+	line-height: 1.75rem;
+	letter-spacing: 0;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+.p-hero-text {
+	padding: 0px 30px 30px 30px;
+	width: 80%;
+	font-size: 1.125rem;
+	font-weight: 400;
+	line-height: 1.75rem;
+	letter-spacing: 0;
+	font-family: "Source Sans Pro", sans-serif;
+	color: #606665;
+}
+.p-ben-text {
+	color: #606665;
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5rem;
+	letter-spacing: 0;
+	margin-top: 0px;
+	padding-top: 0px;
+	width: 80%;
+}
+.testimonials {
+	position: absolute;
+	content: "";
+	display: flex;
+	background-color: #76ccbe;
+	width: 100%;
+	height: 21.75rem;
+}
+.testi-left {
+	padding: 30px;
+	color: #fff;
+}
+.testi-text {
+	font-family: "Source Sans Pro";
+	font-size: 1rem;
+	font-weight: 700;
+	line-height: 1.75rem;
+	letter-spacing: 0.03125rem;
+	text-transform: uppercase;
+}
+.testi-hero {
+	font-family: "Montserrat", sans-serif;
+	font-size: 1.75rem;
+	font-weight: 800;
+	line-height: 2.5rem;
+	letter-spacing: 0.0125rem;
+}
+.p-testi-text {
+	width: 40%;
+	font-size: 1.125rem;
+	font-weight: 400;
+	line-height: 1.75rem;
+	letter-spacing: 0;
+	font-family: "Source Sans Pro", sans-serif;
+}
+.contributor {
+	padding-top: 80px;
+	padding-left: 30px;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+}
+.contri-hero {
+	font-family: "Montserrat", sans-serif;
+	font-size: 1.75rem;
+	font-weight: 800;
+	line-height: 2.5rem;
+	letter-spacing: 0.0125rem;
+	color: #2c302f;
+}
+.p-contri-text {
+	font-size: 1.125rem;
+	font-weight: 400;
+	line-height: 1.75rem;
+	letter-spacing: 0;
+	font-family: "Source Sans Pro", sans-serif;
+	color: #606665;
+}
+.primary-button {
+	background-color: #76ccbe;
+	height: 3rem;
+	padding: 0 1.5rem;
+	color: #fff;
+	border: none;
+	font-weight: 700;
+	font-family: "Montserrat", sans-serif;
+	letter-spacing: 0.025rem;
+	border-radius: 0.325rem;
+}
+.primary-button:hover {
+	background-color: #42ab9a;
+	text-decoration: none;
+	box-shadow: 0 0.25rem 0.3rem 0 rgba(66, 171, 154, 0.3);
+	cursor: pointer;
+}
+.footer {
+	height: 150px;
+	background-color: #f3f9f8;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.contributor {
+	padding-left: 10%;
+}
+.sharer {
+	padding-left: 50%;
+}
+.footer-logo {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	padding: 30px;
+}
+.p-footer {
+	color: #606665;
+	font-family: "Source Sans Pro";
+	font-size: 0.75rem;
+	line-height: 1.125rem;
+	letter-spacing: 0.01575rem;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.contact {
+	padding: 30px;
+	font-family: "Source Sans Pro", sans-serif;
+	color: #606665;
+	font-weight: 400;
+}
+.social {
+	padding: 30px;
+	width: 20px;
+}
+.email {
+	color: #606665;
+	font-family: "Source Sans Pro";
+	font-weight: 700;
+	line-height: 1.5rem;
+}
+.email:hover {
+	color: #42ab9a;
+	cursor: pointer;
+}
+.visual-data {
+	padding: 3.5rem 0;
+	background-color: #f1f9f8;
+}
+.h2-visual {
+	font-family: "Montserrat", sans-serif;
+	color: #2c302f;
+	font-size: 1.75rem;
+	font-weight: 800;
+	line-height: 2.5rem;
+	letter-spacing: 0.0125rem;
+}
+.contribution-header {
+	padding: 3.5rem 0;
+	background-color: #76ccbe;
+}
+.contribution-text {
+	font-family: "Montserrat", sans-serif;
+	color: #fff;
+	font-size: 1.75rem;
+	font-weight: 800;
+	line-height: 2.5rem;
+	letter-spacing: 0.0125rem;
+}
