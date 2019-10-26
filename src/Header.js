@@ -19,7 +19,7 @@ export default function Header(props) {
 					<img
 						alt="logo"
 						title="HackMoscow2019;)"
-						src={require("./logo.cs.svg")}
+						src={require("./logomontazh.svg")}
 					></img>
 					<div className="menu">
 						<ul className="menu-list">

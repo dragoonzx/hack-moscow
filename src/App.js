@@ -4,30 +4,16 @@ import Header from "./Header";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Contribution from "./Contribution";
 import VisualData from "./VisualData";
-
-function App() {
-	return (
-		<Router>
-			<Switch>
-				<Route path="/data">
-					<VisualData />
-				</Route>
-				<Route path="/contribute">
-					<Contribution />
-				</Route>
-				<Route path="/">
-					<About />
-				</Route>
-			</Switch>
-		</Router>
-	);
-}
+import Genius from "./games/Genius";
+import Twin from "./games/Twin";
+import Guess from "./games/Guess";
 
 function About() {
+	const games = React.useRef(null);
 	return (
 		<div>
 			<Header active0></Header>
-			<div className="mainInfo" style={{ textAlign: "center" }}>
+			<div className="mainInfo">
 				<h1
 					style={{
 						color: "#2c302f",
@@ -42,9 +28,9 @@ function About() {
 				</h1>
 				<p
 					style={{
-						margin: "15px 30px 30px 30px",
+						margin: "15px 30px 30px 0px",
 						color: "#606665",
-						width: "50%"
+						width: "30%"
 					}}
 					className="mainText"
 				>
@@ -52,6 +38,13 @@ function About() {
 					data on income and asset of Russian officials, provided by
 					declarator.org!
 				</p>
+				<button
+					style={{ width: "15%" }}
+					onClick={() => games.current.scrollIntoView()}
+					className="primary-button"
+				>
+					Go!
+				</button>
 			</div>
 			<div
 				style={{
@@ -63,33 +56,70 @@ function About() {
 					color: "#606665"
 				}}
 			>
-				USE CASE???<br></br> or some infographics/graphics
+				<img className="picture-1" src={require("./picture1.png")}></img>
 			</div>
 
 			<div
+				ref={games}
 				className="section-stories "
 				style={{ height: "200px", position: "relative" }}
 			>
 				<div
 					style={{
 						position: "relative",
-						color: "#2c302f",
+						color: "#fff",
 						padding: "40px 30px 30px 30px"
 					}}
 					className="cases"
 				>
-					<h2 className="h2-text">Featured Cases</h2>
+					<h2 className="h2-text">Featured Games</h2>
 					<a className="link-icon" title="View more Cases">
-						View more Cases
+						View more games
 					</a>
 				</div>
 				<div className="cards" style={{ color: "#606665" }}>
-					<div className="card">Journal case 0</div>
-					<div className="card">Journal case 1</div>
-					<div className="card">Journal case 2</div>
+					<Link to="guess">
+						<div className="card">
+							<div className="cardJ">
+								<div className="card-top0"></div>
+								<div className="card-middle0"></div>
+								<div className="card-bottom">
+									<h3 style={{ fontFamily: '"Source Sans Pro", sans-serif' }}>
+										Guess Income
+									</h3>
+								</div>
+							</div>
+						</div>
+					</Link>
+					<Link to="twin">
+						<div className="card">
+							<div className="cardJ">
+								<div className="card-top1"></div>
+								<div className="card-middle1"></div>
+								<div className="card-bottom">
+									<h3 style={{ fontFamily: '"Source Sans Pro", sans-serif' }}>
+										Deputat`s twin
+									</h3>
+								</div>
+							</div>
+						</div>
+					</Link>
+					<Link to="genius">
+						<div className="card">
+							<div className="cardJ">
+								<div className="card-top2"></div>
+								<div className="card-middle2"></div>
+								<div className="card-bottom">
+									<h3 style={{ fontFamily: '"Source Sans Pro", sans-serif' }}>
+										Genius
+									</h3>
+								</div>
+							</div>
+						</div>
+					</Link>
 				</div>
 			</div>
-			<div style={{ height: "250px" }}></div>
+			<div style={{ height: "550px" }}></div>
 			<div className="benefits-section">
 				<div style={{ width: "40%" }}>
 					<span className="ben-text">Benefits</span>
@@ -101,17 +131,25 @@ function About() {
 						property is comparable to official income.
 					</p>
 				</div>
-				<div className="benefits-explain">
+				<div className="benefits-explain" style={{ paddingTop: "0px" }}>
 					<div className="benefits-0">
 						<div>
+							<img
+								style={{ width: "70px", height: "70px" }}
+								src={require("./open_data.svg")}
+							></img>
 							<h5 className="h5-ben">Open Data/API</h5>
 							<p className="p-ben-text">
 								People should have access to knowledge, especially to those
 								related to public administration
 							</p>
 						</div>
-						<div style={{ marginTop: "80px" }}>
+						<div style={{ marginTop: "50px" }}>
 							{" "}
+							<img
+								style={{ width: "70px", height: "70px" }}
+								src={require("./voice.svg")}
+							></img>
 							<h5 className="h5-ben">Everybody Have a Voice</h5>
 							<p className="p-ben-text">
 								We have the right to show our active citizenship, our service
@@ -122,6 +160,10 @@ function About() {
 					<div className="benefits-1" style={{ paddingLeft: "30px" }}>
 						<div>
 							{" "}
+							<img
+								style={{ width: "70px", height: "70px" }}
+								src={require("./easy_access.svg")}
+							></img>
 							<h5 className="h5-ben">Easy Access</h5>
 							<p className="p-ben-text">
 								If you are a professional journalist or just want to see
@@ -129,8 +171,12 @@ function About() {
 								what you are looking for
 							</p>
 						</div>
-						<div style={{ marginTop: "80px" }}>
+						<div style={{ marginTop: "50px" }}>
 							{" "}
+							<img
+								style={{ width: "70px", height: "70px" }}
+								src={require("./share_inj.svg")}
+							></img>
 							<h5 className="h5-ben">Share Injustice</h5>
 							<p className="p-ben-text">
 								The more people involved in the project, the closer we are to a
@@ -154,28 +200,18 @@ function About() {
 			<div style={{ height: "300px" }}></div>
 			<div className="contributor">
 				<div className="author">
-					<h2 className="contri-hero">Write a Case</h2>
+					<h2 className="contri-hero">Check an Offician</h2>
 					<p className="p-contri-text">
-						Put your expertise and submit your own research
+						You can check an official governor by predicting their income and
+						checking it with our Data
 					</p>
-					<button className="primary-button">Become an Author</button>
+					<button className="primary-button">Go and Check!</button>
 				</div>
-				<div className="sharer">
-					<h2 className="contri-hero">Share with People</h2>
-					<p className="p-contri-text">
-						Print QR code and glue it somewhere or share it with friends
-					</p>
-					<button className="primary-button">Print QR code</button>
-				</div>
+				<img className="picture-2" src={require("./picture2.png")}></img>
 			</div>
 			<div style={{ height: "100px" }}></div>
 			<div className="footer">
 				<div className="footer-logo">
-					<img
-						alt="logo"
-						title="HackMoscow2019;)"
-						src={require("./logo.cs.svg")}
-					></img>
 					<p className="p-footer">
 						Powered by{" "}
 						<a href="https://beta.russianhackers.org/">
@@ -199,6 +235,33 @@ function About() {
 				</div>
 			</div>
 		</div>
+	);
+}
+
+function App() {
+	return (
+		<Router>
+			<Switch>
+				<Route path="/data">
+					<VisualData />
+				</Route>
+				<Route path="/contribute">
+					<Contribution />
+				</Route>
+				<Route path="/guess">
+					<Guess />
+				</Route>
+				<Route path="/twin">
+					<Twin />
+				</Route>
+				<Route path="/genius">
+					<Genius />
+				</Route>
+				<Route path="/">
+					<About />
+				</Route>
+			</Switch>
+		</Router>
 	);
 }
 

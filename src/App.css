@@ -26,26 +26,29 @@ li {
 }
 
 li.active {
-	color: #1c9f8a;
+	color: #ea503d;
 }
 li:hover {
-	color: #42ab9a;
+	color: #ff9347;
 }
 a {
 	text-decoration: none;
 	color: #606665;
 }
 a:hover {
-	color: #42ab9a;
+	color: #ff9347;
 	cursor: pointer;
 }
 .mainInfo {
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: flex-start;
 	flex-direction: column;
+	text-align: left;
+	padding-left: 110px;
 }
 .mainText {
+	font-family: "Source Sans Pro", sans-serif;
 	font-size: 1.125rem;
 	font-weight: 400;
 	line-height: 1.75rem;
@@ -78,7 +81,7 @@ a:hover {
 	top: 0;
 	height: 18rem;
 	width: 100%;
-	background: #f1f9f8;
+	background: #ea503d;
 }
 .h2-text {
 	font-family: "Montserrat", sans-serif;
@@ -92,6 +95,7 @@ a:hover {
 	font-family: "Source Sans Pro";
 	font-weight: 700;
 	line-height: 1.5rem;
+	color: #fff;
 }
 .link-icon:after {
 	background: url("./dark-arrow.svg") no-repeat;
@@ -116,7 +120,7 @@ a:hover {
 	padding: 10px 30px 30px 30px;
 }
 .ben-text {
-	color: #1c9f8a;
+	color: #ea503d;
 	font-family: "Source Sans Pro", sans-serif;
 	font-size: 1rem;
 	font-weight: 700;
@@ -178,7 +182,7 @@ a:hover {
 	position: absolute;
 	content: "";
 	display: flex;
-	background-color: #76ccbe;
+	background: linear-gradient(to left, #ff9347, #e05b95);
 	width: 100%;
 	height: 21.75rem;
 }
@@ -225,6 +229,7 @@ a:hover {
 	color: #2c302f;
 }
 .p-contri-text {
+	width: 30%;
 	font-size: 1.125rem;
 	font-weight: 400;
 	line-height: 1.75rem;
@@ -233,7 +238,7 @@ a:hover {
 	color: #606665;
 }
 .primary-button {
-	background-color: #76ccbe;
+	background-color: #ea503d;
 	height: 3rem;
 	padding: 0 1.5rem;
 	color: #fff;
@@ -244,10 +249,13 @@ a:hover {
 	border-radius: 0.325rem;
 }
 .primary-button:hover {
-	background-color: #42ab9a;
+	background-color: #e05b95;
 	text-decoration: none;
 	box-shadow: 0 0.25rem 0.3rem 0 rgba(66, 171, 154, 0.3);
 	cursor: pointer;
+}
+.primary-button:focus {
+	outline: 0;
 }
 .footer {
 	height: 150px;
@@ -295,16 +303,16 @@ a:hover {
 	line-height: 1.5rem;
 }
 .email:hover {
-	color: #42ab9a;
+	color: #ea503d;
 	cursor: pointer;
 }
 .visual-data {
-	padding: 3.5rem 0;
-	background-color: #f1f9f8;
+	padding: 1.3rem 0;
+	background-color: #ea503d;
 }
 .h2-visual {
 	font-family: "Montserrat", sans-serif;
-	color: #2c302f;
+	color: #fff;
 	font-size: 1.75rem;
 	font-weight: 800;
 	line-height: 2.5rem;
@@ -312,7 +320,7 @@ a:hover {
 }
 .contribution-header {
 	padding: 3.5rem 0;
-	background-color: #76ccbe;
+	background: linear-gradient(to left, #ff9347, #e05b95);
 }
 .contribution-text {
 	font-family: "Montserrat", sans-serif;
@@ -321,4 +329,153 @@ a:hover {
 	font-weight: 800;
 	line-height: 2.5rem;
 	letter-spacing: 0.0125rem;
+}
+
+.cardJ {
+	border-radius: 20px;
+	box-shadow: 0 5px 40px 15px rgba(0, 0, 0, 0.15);
+	overflow: hidden;
+	position: relative;
+	animation: rotation 3s linear infinite;
+	width: 380px;
+	filter: grayscale(0.7);
+	transition: cubic-bezier(0.19, 1, 0.22, 1) 0.5s;
+}
+.cardJ:hover {
+	filter: grayscale(0);
+	cursor: pointer;
+}
+
+.card-top0 {
+	background-image: url("https://psv4.userapi.com/c856532/u252106441/docs/d12/6828cd0ddba5/funny-money-64_1.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom center;
+	height: 250px;
+	overflow: hidden;
+}
+.card-top1 {
+	background-image: url("https://media.giphy.com/media/l36kU80xPf0ojG0Erg/source.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom center;
+	height: 250px;
+	overflow: hidden;
+}
+.card-top2 {
+	background-image: url("https://media.giphy.com/media/SKab6E8Qeg7sY/source.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom center;
+	height: 250px;
+	overflow: hidden;
+}
+
+.card-middle0 {
+	background-image: url("https://psv4.userapi.com/c848032/u44361807/docs/d4/60250f4cb48a/Resurs_3_3x.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right center;
+	border-radius: 50%;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	width: 130px;
+	height: 130px;
+}
+.card-middle1 {
+	background-image: url("https://psv4.userapi.com/c848032/u44361807/docs/d3/c1538e7ced0c/Resurs_4_3x.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right center;
+	border-radius: 50%;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	width: 130px;
+	height: 130px;
+}
+.card-middle2 {
+	background-image: url("https://psv4.userapi.com/c848032/u44361807/docs/d2/5aa84a61eaec/Resurs_5_3x.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: right center;
+	border-radius: 50%;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	width: 130px;
+	height: 130px;
+}
+
+.card-bottom {
+	background-color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	height: 250px;
+}
+
+.card-bottom h3 {
+	color: #777;
+	margin: 30px 0 0;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+}
+
+.card-bottom p {
+	color: #777;
+	margin: 15px 0 0;
+	letter-spacing: 0.5px;
+}
+
+.genius-quest {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.p-questions {
+	font-family: "Source Sans Pro";
+	font-size: 1.75rem;
+	padding: 5px;
+	line-height: 1.125rem;
+	letter-spacing: 0.01575rem;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.question-buttons {
+	color: #606665;
+	border-radius: 58px;
+	background-color: white;
+	padding: 7px 15px 7px 15px;
+	text-align: center;
+	box-shadow: 0 0 4px #606665;
+	cursor: pointer;
+}
+.question-buttons:hover {
+	color: #ff9347;
+}
+.picture-1 {
+	position: absolute;
+	right: 100px;
+	top: 100px;
+	width: 45%;
+}
+.picture-2 {
+	width: 15%;
+	left: 70%;
+	padding-top: 106px;
+	position: absolute;
+}
+@media screen and (max-width: 500px) {
+	.cardJ {
+	}
 }
