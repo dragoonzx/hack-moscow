@@ -44,7 +44,7 @@ export default function Header(props) {
 									className={props.active2 ? "active" : ""}
 									onClick={() => console.log("contribution")}
 								>
-									Become a Contributor
+									Become a Donator
 								</li>
 							</Link>
 						</ul>

@@ -1,0 +1,868 @@
+{
+  "count": 7,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "Алтайский Краевой Совет народных депутатов, пенсия",
+          "relative": null,
+          "size": 602321.33
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 2,
+          "name": "Предвыборная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Данилова",
+          "gender": "F",
+          "given_name": "Нина",
+          "id": 16,
+          "name": "Данилова Нина Петровна",
+          "patronymic_name": "Петровна"
+        },
+        "year": 2006
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 22,
+            "name": "Совместная собственность"
+          },
+          "region": {
+            "id": 24,
+            "name": "Алтайский край"
+          },
+          "relative": null,
+          "share": 0.0,
+          "square": 800.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 22,
+            "name": "Совместная собственность"
+          },
+          "region": {
+            "id": 24,
+            "name": "Алтайский край"
+          },
+          "relative": null,
+          "share": 0.0,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [
+        "273 403,14 руб. (ОАО \"Сбербанк России\")"
+      ],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "пенсия, прочее, Алтайское Краевое Законодательное собрание",
+          "relative": null,
+          "size": 427384.0
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 2,
+          "name": "Предвыборная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Данилова",
+          "gender": "F",
+          "given_name": "Нина",
+          "id": 16,
+          "name": "Данилова Нина Петровна",
+          "patronymic_name": "Петровна"
+        },
+        "year": 2010
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": {
+            "id": 24,
+            "name": "Алтайский край"
+          },
+          "relative": null,
+          "share": 1.0,
+          "square": 800.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": {
+            "id": 24,
+            "name": "Алтайский край"
+          },
+          "relative": null,
+          "share": 0.333,
+          "square": 53.1,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [
+        "14 304,0 руб. (ОАО \"Сбербанк России\")"
+      ],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 1055113.0
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "size": 72213.0
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 267,
+          "name": "Законодательное собрание Алтайского края",
+          "region": {
+            "id": 24,
+            "name": "Алтайский край"
+          },
+          "type": {
+            "id": 18,
+            "name": "Региональный, без структуры"
+          },
+          "url": "http://www.altsovet.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Данилова",
+          "gender": "F",
+          "given_name": "Нина",
+          "id": 16,
+          "name": "Данилова Нина Петровна",
+          "patronymic_name": "Петровна"
+        },
+        "year": 2011
+      },
+      "real_estates": [
+        {
+          "comment": "коллективно-долевая собственность",
+          "country": "Россия",
+          "name": "садовый",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 800.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": null,
+          "share": 0.3333,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": 0.3333,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "коллективно-долевая собственность",
+          "country": "Россия",
+          "name": "погребная ячейка",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 3.1,
+          "type": {
+            "id": 6,
+            "name": "Иное"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 524560.0
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "size": 85986.0
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 267,
+          "name": "Законодательное собрание Алтайского края",
+          "region": {
+            "id": 24,
+            "name": "Алтайский край"
+          },
+          "type": {
+            "id": 18,
+            "name": "Региональный, без структуры"
+          },
+          "url": "http://www.altsovet.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Данилова",
+          "gender": "F",
+          "given_name": "Нина",
+          "id": 16,
+          "name": "Данилова Нина Петровна",
+          "patronymic_name": "Петровна"
+        },
+        "year": 2012
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Земельный участок (размер доли не указан) коллективно-долевая",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 800.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": null,
+          "share": 0.333333333333333,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Погребная ячейка",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 3.1,
+          "type": {
+            "id": 6,
+            "name": "Иное"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": 0.333333333333333,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 620263.0
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "size": 94741.0
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 267,
+          "name": "Законодательное собрание Алтайского края",
+          "region": {
+            "id": 24,
+            "name": "Алтайский край"
+          },
+          "type": {
+            "id": 18,
+            "name": "Региональный, без структуры"
+          },
+          "url": "http://www.altsovet.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Данилова",
+          "gender": "F",
+          "given_name": "Нина",
+          "id": 16,
+          "name": "Данилова Нина Петровна",
+          "patronymic_name": "Петровна"
+        },
+        "year": 2013
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Земельный участок (размер доли не указан) коллективно-долевая",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 800.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Квартира (размер доли не указан)",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Квартира (размер доли не указан)",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Погребная ячейка",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 3.1,
+          "type": {
+            "id": 6,
+            "name": "Иное"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 844641.0
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "size": 94321.0
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 267,
+          "name": "Законодательное собрание Алтайского края",
+          "region": {
+            "id": 24,
+            "name": "Алтайский край"
+          },
+          "type": {
+            "id": 18,
+            "name": "Региональный, без структуры"
+          },
+          "url": "http://www.altsovet.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Данилова",
+          "gender": "F",
+          "given_name": "Нина",
+          "id": 16,
+          "name": "Данилова Нина Петровна",
+          "patronymic_name": "Петровна"
+        },
+        "year": 2014
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Земельный участок (размер доли не указан) коллективно-долевая",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 800.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": null,
+          "share": 0.333333333333333,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": 0.333333333333333,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Погребная ячейка",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 3.1,
+          "type": {
+            "id": 6,
+            "name": "Иное"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 4,
+            "name": "Дочь"
+          },
+          "share": 0.333333333333333,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 1064895.0
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "size": 115157.0
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 267,
+          "name": "Законодательное собрание Алтайского края",
+          "region": {
+            "id": 24,
+            "name": "Алтайский край"
+          },
+          "type": {
+            "id": 18,
+            "name": "Региональный, без структуры"
+          },
+          "url": "http://www.altsovet.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Данилова",
+          "gender": "F",
+          "given_name": "Нина",
+          "id": 16,
+          "name": "Данилова Нина Петровна",
+          "patronymic_name": "Петровна"
+        },
+        "year": 2015
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Земельный участок (размер доли не указан) коллективно-долевая",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 800.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": null,
+          "share": 0.333333333333333,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": 0.333333333333333,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Погребная ячейка",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 3.1,
+          "type": {
+            "id": 6,
+            "name": "Иное"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 4,
+            "name": "Дочь"
+          },
+          "share": 0.333333333333333,
+          "square": 53.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    }
+  ]
+}

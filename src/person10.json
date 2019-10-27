@@ -1,0 +1,1817 @@
+{
+  "count": 9,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "МГУ им. М.В.Ломоносова, Институт корпоративного развития, ЗАО \"Коми Алюминий\", доходы от акций и ценных бумаг, выплаты на депутатскую деятельность",
+          "relative": null,
+          "size": 1224567.0
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 2,
+          "name": "Предвыборная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Андреев",
+          "gender": "M",
+          "given_name": "Андрей",
+          "id": 10,
+          "name": "Андреев Андрей Анатольевич",
+          "patronymic_name": "Анатольевич"
+        },
+        "year": 2006
+      },
+      "real_estates": [],
+      "savings": [
+        "1 451,5 руб. (Сбербанка России (ОАО))"
+      ],
+      "spendings": [],
+      "stocks": [
+        "16 шт. ОАО \"Арбат Престиж\", 1.0 доли"
+      ],
+      "vehicles": []
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 2077196.0
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "size": 427300.37
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Андреев",
+          "gender": "M",
+          "given_name": "Андрей",
+          "id": 10,
+          "name": "Андреев Андрей Анатольевич",
+          "patronymic_name": "Анатольевич"
+        },
+        "year": 2009
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": null,
+          "share": 1.0,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 498.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 87.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 22,
+            "name": "Совместная собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 114.8,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Дачный дом",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 117.2,
+          "type": {
+            "id": 5,
+            "name": "Дача"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Машиноместо",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 13.9,
+          "type": {
+            "id": 6,
+            "name": "Иное"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 87.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": [
+        {
+          "brand": {
+            "id": 214,
+            "name": "A6"
+          },
+          "comment": "",
+          "manufacture_year": null,
+          "name": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "type": {
+            "id": 1,
+            "name": "Автомобиль легковой"
+          }
+        },
+        {
+          "brand": {
+            "id": 1610,
+            "name": "Rav 4"
+          },
+          "comment": "",
+          "manufacture_year": null,
+          "name": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "type": {
+            "id": 1,
+            "name": "Автомобиль легковой"
+          }
+        }
+      ]
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 2078056.34
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "size": 805587.69
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "size": 28668.37
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Андреев",
+          "gender": "M",
+          "given_name": "Андрей",
+          "id": 10,
+          "name": "Андреев Андрей Анатольевич",
+          "patronymic_name": "Анатольевич"
+        },
+        "year": 2010
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Дачный земельный участок",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 498.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 87.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 22,
+            "name": "Совместная собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 114.8,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Дачный дом",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 117.2,
+          "type": {
+            "id": 5,
+            "name": "Дача"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Машиноместо",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 13.9,
+          "type": {
+            "id": 6,
+            "name": "Иное"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 87.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": [
+        {
+          "brand": {
+            "id": 1721,
+            "name": "XC90"
+          },
+          "comment": "",
+          "manufacture_year": null,
+          "name": "",
+          "relative": null,
+          "type": {
+            "id": 1,
+            "name": "Автомобиль легковой"
+          }
+        },
+        {
+          "brand": {
+            "id": 214,
+            "name": "A6"
+          },
+          "comment": "",
+          "manufacture_year": null,
+          "name": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "type": {
+            "id": 1,
+            "name": "Автомобиль легковой"
+          }
+        }
+      ]
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "Московский государственный университет имени М.В. Ломоносова, Аппарат Государственной Думы Федерального Собрания Российской Федерации",
+          "relative": null,
+          "size": 2078056.0
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 2,
+          "name": "Предвыборная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Андреев",
+          "gender": "M",
+          "given_name": "Андрей",
+          "id": 10,
+          "name": "Андреев Андрей Анатольевич",
+          "patronymic_name": "Анатольевич"
+        },
+        "year": 2010
+      },
+      "real_estates": [],
+      "savings": [
+        "0,0 руб. (ОАО «Альфа-банк»)",
+        "17,0 руб. (ОАО АКБ \"АВАНГАРД”)",
+        "14 423,0 руб. (Сбербанка России (ОАО))"
+      ],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": [
+        {
+          "brand": {
+            "id": 1721,
+            "name": "XC90"
+          },
+          "comment": "",
+          "manufacture_year": 2010,
+          "name": "",
+          "relative": null,
+          "type": {
+            "id": 1,
+            "name": "Автомобиль легковой"
+          }
+        }
+      ]
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 2083690.68
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "size": 46859.99
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "size": 32607.03
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "size": 14768.02
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Андреев",
+          "gender": "M",
+          "given_name": "Андрей",
+          "id": 10,
+          "name": "Андреев Андрей Анатольевич",
+          "patronymic_name": "Анатольевич"
+        },
+        "year": 2011
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": null,
+          "share": 1.0,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": 1.0,
+          "square": 498.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "такая же, как у мужа",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": 1.0,
+          "square": 87.7,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 22,
+            "name": "Совместная собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 114.8,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": 1.0,
+          "square": 117.2,
+          "type": {
+            "id": 5,
+            "name": "Дача"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "машиноместо",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": 1.0,
+          "square": 13.9,
+          "type": {
+            "id": 6,
+            "name": "Иное"
+          }
+        },
+        {
+          "comment": "такая же, как у родителей",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "такая же, как у родителей",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": [
+        {
+          "brand": {
+            "id": 1721,
+            "name": "XC90"
+          },
+          "comment": "",
+          "manufacture_year": 2010,
+          "name": "",
+          "relative": null,
+          "type": {
+            "id": 1,
+            "name": "Автомобиль легковой"
+          }
+        },
+        {
+          "brand": {
+            "id": 214,
+            "name": "A6"
+          },
+          "comment": "",
+          "manufacture_year": null,
+          "name": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "type": {
+            "id": 1,
+            "name": "Автомобиль легковой"
+          }
+        }
+      ]
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 2114805.96
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "size": 5000068.88
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "size": 34573.62
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "size": 18295.05
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Андреев",
+          "gender": "M",
+          "given_name": "Андрей",
+          "id": 10,
+          "name": "Андреев Андрей Анатольевич",
+          "patronymic_name": "Анатольевич"
+        },
+        "year": 2012
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 498.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 22,
+            "name": "Совместная собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 114.8,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 117.2,
+          "type": {
+            "id": 5,
+            "name": "Дача"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "машиноместо",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 13.9,
+          "type": {
+            "id": 2,
+            "name": "Гараж"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": [
+        {
+          "brand": {
+            "id": 125,
+            "name": "Volvo"
+          },
+          "comment": "",
+          "manufacture_year": null,
+          "name": "XS 90",
+          "relative": null,
+          "type": {
+            "id": 1,
+            "name": "Автомобиль легковой"
+          }
+        },
+        {
+          "brand": {
+            "id": 10,
+            "name": "Audi"
+          },
+          "comment": "",
+          "manufacture_year": null,
+          "name": "A6",
+          "relative": null,
+          "type": {
+            "id": 1,
+            "name": "Автомобиль легковой"
+          }
+        }
+      ]
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 3655249.56
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "size": 657571.18
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "size": 36750.57
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "size": 18959.4
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Андреев",
+          "gender": "M",
+          "given_name": "Андрей",
+          "id": 10,
+          "name": "Андреев Андрей Анатольевич",
+          "patronymic_name": "Анатольевич"
+        },
+        "year": 2013
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Земельный участок дачный",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 498.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 22,
+            "name": "Совместная собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 114.8,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Дачный дом",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 117.2,
+          "type": {
+            "id": 5,
+            "name": "Дача"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Машиноместо",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 13.9,
+          "type": {
+            "id": 6,
+            "name": "Иное"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": [
+        {
+          "brand": {
+            "id": 1721,
+            "name": "XC90"
+          },
+          "comment": "",
+          "manufacture_year": null,
+          "name": "",
+          "relative": null,
+          "type": {
+            "id": 1,
+            "name": "Автомобиль легковой"
+          }
+        }
+      ]
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 3990944.05
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "size": 341056.47
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Андреев",
+          "gender": "M",
+          "given_name": "Андрей",
+          "id": 10,
+          "name": "Андреев Андрей Анатольевич",
+          "patronymic_name": "Анатольевич"
+        },
+        "year": 2014
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Земельный участок дачный",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 498.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": 0.5,
+          "square": 114.8,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Дачный дом",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 117.2,
+          "type": {
+            "id": 5,
+            "name": "Дача"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Машиноместо",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 13.9,
+          "type": {
+            "id": 6,
+            "name": "Иное"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": [
+        {
+          "brand": {
+            "id": 1721,
+            "name": "XC90"
+          },
+          "comment": "",
+          "manufacture_year": null,
+          "name": "",
+          "relative": null,
+          "type": {
+            "id": 1,
+            "name": "Автомобиль легковой"
+          }
+        }
+      ]
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 4875905.09
+        },
+        {
+          "comment": "",
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "size": 899171.18
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Андреев",
+          "gender": "M",
+          "given_name": "Андрей",
+          "id": 10,
+          "name": "Андреев Андрей Анатольевич",
+          "patronymic_name": "Анатольевич"
+        },
+        "year": 2015
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Земельный участок дачный",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 498.0,
+          "type": {
+            "id": 1,
+            "name": "Земельный участок"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 21,
+            "name": "Долевая собственность"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": 0.5,
+          "square": 114.8,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Дачный дом",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 117.2,
+          "type": {
+            "id": 5,
+            "name": "Дача"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "Машиноместо",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": {
+            "id": 2,
+            "name": "Супруг(а)"
+          },
+          "share": null,
+          "square": 13.9,
+          "type": {
+            "id": 2,
+            "name": "Гараж"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": {
+            "id": 6,
+            "name": "Ребенок"
+          },
+          "share": null,
+          "square": 43.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": [
+        {
+          "brand": {
+            "id": 1721,
+            "name": "XC90"
+          },
+          "comment": "",
+          "manufacture_year": null,
+          "name": "",
+          "relative": null,
+          "type": {
+            "id": 1,
+            "name": "Автомобиль легковой"
+          }
+        }
+      ]
+    }
+  ]
+}

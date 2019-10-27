@@ -111,7 +111,7 @@ function About() {
 								<div className="card-middle2"></div>
 								<div className="card-bottom">
 									<h3 style={{ fontFamily: '"Source Sans Pro", sans-serif' }}>
-										Genius
+										Fun Facts
 									</h3>
 								</div>
 							</div>
@@ -192,8 +192,8 @@ function About() {
 					<span className="testi-text">Prototype</span>
 					<h2 className="testi-hero">Try and Help Us</h2>
 					<p className="p-testi-text">
-						Read what journalists have to say about their research, look at open
-						data and participate in contribution
+						Play in our data visualisation games, look at open data and
+						participate in contribution
 					</p>
 				</div>
 			</div>
@@ -205,7 +205,9 @@ function About() {
 						You can check an official governor by predicting their income and
 						checking it with our Data
 					</p>
-					<button className="primary-button">Go and Check!</button>
+					<Link to="guess">
+						<button className="primary-button">Go and Check!</button>
+					</Link>
 				</div>
 				<img className="picture-2" src={require("./picture2.png")}></img>
 			</div>

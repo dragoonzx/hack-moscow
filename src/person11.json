@@ -1,0 +1,466 @@
+{
+  "count": 6,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "Аппарат ГД ФС РФ, пенсия, доходы от вкладов",
+          "relative": null,
+          "size": 1267741.0
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 2,
+          "name": "Предвыборная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Апарина",
+          "gender": "F",
+          "given_name": "Алевтина",
+          "id": 11,
+          "name": "Апарина Алевтина Викторовна",
+          "patronymic_name": "Викторовна"
+        },
+        "year": 2006
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": {
+            "id": 41,
+            "name": "Волгоградская область"
+          },
+          "relative": null,
+          "share": 1.0,
+          "square": 56.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [
+        "7 151,89 руб. (ОАО \"Сбербанк России\")"
+      ],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 2248257.03
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Апарина",
+          "gender": "F",
+          "given_name": "Алевтина",
+          "id": 11,
+          "name": "Апарина Алевтина Викторовна",
+          "patronymic_name": "Викторовна"
+        },
+        "year": 2009
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": {
+            "id": 41,
+            "name": "Волгоградская область"
+          },
+          "relative": null,
+          "share": 1.0,
+          "square": 56.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": null,
+          "share": 1.0,
+          "square": 57.1,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 2120681.49
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Апарина",
+          "gender": "F",
+          "given_name": "Алевтина",
+          "id": 11,
+          "name": "Апарина Алевтина Викторовна",
+          "patronymic_name": "Викторовна"
+        },
+        "year": 2010
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": {
+            "id": 41,
+            "name": "Волгоградская область"
+          },
+          "relative": null,
+          "share": 1.0,
+          "square": 56.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 57.1,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "проценты (доходы от вкладов);  аппарат Государственной Думы Федерального Собрания Российской Федерации; пенсия",
+          "relative": null,
+          "size": 2133612.0
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 2,
+          "name": "Предвыборная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Апарина",
+          "gender": "F",
+          "given_name": "Алевтина",
+          "id": 11,
+          "name": "Апарина Алевтина Викторовна",
+          "patronymic_name": "Викторовна"
+        },
+        "year": 2010
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": {
+            "id": 41,
+            "name": "Волгоградская область"
+          },
+          "relative": null,
+          "share": 1.0,
+          "square": 56.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [
+        "524 008,0 руб. (ОАО \"Сбербанк России\")"
+      ],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 2593204.42
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Апарина",
+          "gender": "F",
+          "given_name": "Алевтина",
+          "id": 11,
+          "name": "Апарина Алевтина Викторовна",
+          "patronymic_name": "Викторовна"
+        },
+        "year": 2011
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": {
+            "id": 41,
+            "name": "Волгоградская область"
+          },
+          "relative": null,
+          "share": 1.0,
+          "square": 56.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": null,
+          "share": 1.0,
+          "square": 57.1,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    },
+    {
+      "bonds": [],
+      "incomes": [
+        {
+          "comment": "",
+          "relative": null,
+          "size": 2248565.17
+        }
+      ],
+      "main": {
+        "document_type": {
+          "id": 1,
+          "name": "Антикоррупционная декларация"
+        },
+        "office": {
+          "id": 14,
+          "name": "Государственная Дума",
+          "region": null,
+          "type": {
+            "id": 7,
+            "name": "Федеральный, без региональной структуры"
+          },
+          "url": "http://www.duma.gov.ru/"
+        },
+        "party": {
+          "id": 6,
+          "name": "КПРФ"
+        },
+        "person": {
+          "family_name": "Апарина",
+          "gender": "F",
+          "given_name": "Алевтина",
+          "id": 11,
+          "name": "Апарина Алевтина Викторовна",
+          "patronymic_name": "Викторовна"
+        },
+        "year": 2012
+      },
+      "real_estates": [
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 20,
+            "name": "Индивидуальная"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 56.0,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        },
+        {
+          "comment": "",
+          "country": "Россия",
+          "name": "",
+          "own_type": {
+            "id": 5,
+            "name": "Безвозмездное пользование"
+          },
+          "region": null,
+          "relative": null,
+          "share": null,
+          "square": 57.1,
+          "type": {
+            "id": 4,
+            "name": "Квартира"
+          }
+        }
+      ],
+      "savings": [],
+      "spendings": [],
+      "stocks": [],
+      "vehicles": []
+    }
+  ]
+}

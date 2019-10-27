@@ -127,33 +127,34 @@ export default function Genius() {
 			<Header></Header>
 			<div className="visual-data">
 				<h2 className="h2-visual" style={{ textAlign: "center" }}>
-					{quiz.question}
+					Fun Facts Quiz Game
 				</h2>
-			</div>
-			<div>
-				<div>
-					{isOver ? (
-						<div className="genius-quest">
-							<h2 className="h2-text">Спасибо за игру!</h2>
-						</div>
-					) : (
-						<div className="genius-quest">
-							<div>
-								{quiz.answers.map((data, index) => (
-									<ul style={{ listStyleType: "none", paddingLeft: "0px" }}>
-										<div
-											className="question-buttons"
-											onClick={() => sendAnswer(index)}
-										>
-											<li className="p-questions">{data}</li>
-										</div>
-									</ul>
-								))}
-							</div>
-						</div>
-					)}
-				</div>
 			</div>
 		</div>
 	);
 }
+//QUIZ GAME
+// <div>
+// 				<div>
+// 					{isOver ? (
+// 						<div className="genius-quest">
+// 							<h2 className="h2-text">Спасибо за игру!</h2>
+// 						</div>
+// 					) : (
+// 						<div className="genius-quest">
+// 							<div>
+// 								{quiz.answers.map((data, index) => (
+// 									<ul style={{ listStyleType: "none", paddingLeft: "0px" }}>
+// 										<div
+// 											className="question-buttons"
+// 											onClick={() => sendAnswer(index)}
+// 										>
+// 											<li className="p-questions">{data}</li>
+// 										</div>
+// 									</ul>
+// 								))}
+// 							</div>
+// 						</div>
+// 					)}
+// 				</div>
+// 			</div>
